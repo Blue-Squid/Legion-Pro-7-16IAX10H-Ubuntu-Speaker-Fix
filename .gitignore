@@ -1,0 +1,4 @@
+# Proprietary amplifier firmware must not be committed — users download it
+# themselves (README step 2).
+*.bin
+*.acf
